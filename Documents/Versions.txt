@@ -1,0 +1,2 @@
+jQuery : v2.1.4
+php : v5.6
